@@ -1,0 +1,34 @@
+
+1. Project Title: BioSeq Analyzer
+2. Project Description: BioSeq Analyzer will be an interactive application for DNA sequence analysis. It will allow users to load DNA sequences from text files and perform various analyses such as motif search, sequence comparison, homology detection, prediction of secondary structures, etc.
+
+3. Technologies: The project will be implemented in C++ using the Qt framework for building the graphical user interface (GUI). Exception handling mechanisms and file I/O operations in C++ will be utilized for handling input and output files.
+
+4. Features:
+Inheritance: Utilization of inheritance to create a hierarchy of classes representing different types of sequences (DNA, RNA).
+Polymorphism: Implementation of methods that will operate polymorphically depending on the sequence type.
+Encapsulation: Hiding implementation details of analyses in appropriate classes.
+Abstraction: Utilization of abstract classes to define general operations on sequences.
+Exception Handling: Handling exceptions when loading and processing data from files.
+File I/O: Loading sequence data from text files and saving analysis results to a file.
+GUI: Creation of an intuitive user interface for easy sequence loading and analysis result browsing.
+Event Driven Programming: Handling user interaction events with the graphical interface.
+
+Optional: 
+GUI Design and Development - based on Qt
+Advanced Inheritance and Polymorphism
+Desig Pattern (?)
+
+Team Members:
+Olimpia Gawrońska
+Jurand Handschuh
+Zofia Błaszczyk
+Grzegorz Kacprzyński
+
+Schedule:
+Project Proposal Submission Deadline: April 9th
+Project Code Submission Deadline: May 28th
+Presentation Date June 11th
+
+
+This project meets all the requirements regarding the implementation of object-oriented programming principles and utilizes advanced techniques such as exception handling, file I/O operations, GUI, and event-driven programming.
